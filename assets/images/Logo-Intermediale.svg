@@ -1,0 +1,42 @@
+<svg width="400" height="400" viewBox="0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Logo Intermediale</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-6301 51)">
+<g id="Logo Intermediale">
+<g id="Ellipse">
+<use xlink:href="#path0_fill" transform="translate(6301 -51)" fill="#E9D038"/>
+</g>
+<g id="Group 5">
+<g id="Rectangle">
+<use xlink:href="#path1_fill" transform="translate(6381.5 98.4852)" fill="#3E4C57"/>
+<use xlink:href="#path2_fill" transform="translate(6381.5 98.4852)" fill="#3E4C57"/>
+</g>
+<g id="Ellipse 2">
+<use xlink:href="#path3_fill" transform="translate(6417.67 42.3333)" fill="#3E4C57"/>
+</g>
+<g id="Group">
+<g id="Vector">
+<use xlink:href="#path4_fill" transform="translate(6481.57 53.9486)" fill="#3E4C57"/>
+<use xlink:href="#path5_fill" transform="translate(6481.57 53.9486)" fill="#3E4C57"/>
+</g>
+<g id="Ellipse">
+<use xlink:href="#path6_fill" transform="translate(6507.1 164.603)" fill="#E9D038"/>
+</g>
+<g id="Ellipse">
+<use xlink:href="#path7_fill" transform="translate(6509.94 73.8228)" fill="#E9D038"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 400 200C 400 310.457 310.457 400 200 400C 89.5431 400 0 310.457 0 200C 0 89.5431 89.5431 0 200 0C 310.457 0 400 89.5431 400 200Z"/>
+<path id="path1_fill" d="M 46.1665 0L 71.6993 0L 71.1665 145.515L 46.1665 145.515L 46.1665 28.8481L 46.1665 0Z"/>
+<path id="path2_fill" d="M 46.1665 28.8481L 46.1665 0C 30.0107 24.4185 11.5398 26.7538 0 29.0148L 0 47.0148C 10.3859 47.0148 34.6267 36.0078 46.1665 28.8481Z"/>
+<path id="path3_fill" d="M 43.3333 21.6667C 43.3333 33.6328 33.6328 43.3333 21.6667 43.3333C 9.7005 43.3333 0 33.6328 0 21.6667C 0 9.7005 9.7005 0 21.6667 0C 33.6328 0 43.3333 9.7005 43.3333 21.6667Z"/>
+<path id="path4_fill" d="M 62.4114 97.1622C 62.4114 97.1622 50.2235 97.3098 38.2979 97.1622C 20.2106 100.177 3.60233e-18 113.491 3.60233e-18 147.534C -8.41742e-09 173.066 14.7515 197.463 62.4112 198.598C 110.071 199.732 123.404 167.392 123.404 147.534C 123.404 126.257 114.558 100.752 81.7996 97.1622C 71.3507 97.1622 64.0735 97.1622 62.4114 97.1622Z"/>
+<path id="path5_fill" d="M 62.4112 0.0159994C 44.4443 -0.456814 7.94311 9.3777 5.6736 52.4983C 4.08422 82.6965 22.1591 93.6721 38.2979 97.1622C 47.6202 97.2257 55.3193 97.1622 62.4114 97.1622C 69.5034 97.1622 76.0248 97.1622 81.7996 97.1622C 96.7386 94.3411 115.137 84.4834 117.73 52.4983C 121.135 10.5125 82.2694 0.0159994 62.4112 0.0159994Z"/>
+<path id="path6_fill" d="M 73.7589 36.8794C 73.7589 57.2474 57.2474 73.7589 36.8794 73.7589C 16.5115 73.7589 0 57.2474 0 36.8794C 0 16.5115 16.5115 0 36.8794 0C 57.2474 0 73.7589 16.5115 73.7589 36.8794Z"/>
+<path id="path7_fill" d="M 68.0851 34.0426C 68.0851 52.8437 52.8437 68.0851 34.0426 68.0851C 15.2414 68.0851 0 52.8437 0 34.0426C 0 15.2414 15.2414 0 34.0426 0C 52.8437 0 68.0851 15.2414 68.0851 34.0426Z"/>
+</defs>
+</svg>
